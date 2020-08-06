@@ -8,7 +8,7 @@ Control Systems (30) - User Interface (20) - Interactions (30) - Documentation(2
 
 ### "Why Did I Pick 2D - The Game"
 
-#### Controls 
+#### Default Controls 
 - Jump - W
 - Move Left - A
 - Move Right - D
@@ -34,6 +34,8 @@ Levels are completed by standing on the finish tiles.
 The player's score will stay with them throughout their journey. However, it will be reset by either leaving to the main menu, changing level, or finishing the game.
 
 You can pause the game at anytime with Tab/P.
+
+There is an option to change the controls bind in the Main Menu and Pause Menu. Changing these of course means the keys specified in the readme may no longer be accurate.
 
 #### Hardest Part to Get Working
 
