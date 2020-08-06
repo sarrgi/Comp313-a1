@@ -20,7 +20,6 @@ Control Systems (30) - User Interface (20) - Interactions (30) - Documentation(2
 - Navigate to Content/Levels and double clicking "Home" to load the home level.
 - Press Play in the Unreal editor to launch the game.
 
-
 #### Explanation of game 
 This is a very basic 2D platformer, with the movement being loosely based on Hollow Knight and Celeste, but without the polish. Similaraly to these two games, the player's movement is the main action of this game.
 
@@ -35,7 +34,7 @@ The player's score will stay with them throughout their journey. However, it wil
 
 You can pause the game at anytime with Tab/P.
 
-There is an option to change the controls bind in the Main Menu and Pause Menu. Changing these of course means the keys specified in the readme may no longer be accurate.
+There is an option to change some of the controls bind in the Main Menu and Pause Menu. Changing these of course means the keys specified in the readme may no longer be accurate.
 
 #### Hardest Part to Get Working
 
@@ -59,3 +58,6 @@ Admittidly it's not the most polished and the player sometimes bouncies of the i
 
 I also found the Tilemaps/Level Creation system to be very interesting and useful. All that was required was to create a tile type once. Then this tile was able to be mass used on a grid to quickly construct a level.
 I think this feature has a lot of potential and will be very powerful for producing nice looking 2d levels at speed.
+
+I also found the change control system to be quite interesting, as this was editting the project settings directly rather than just an object in the game. This script is one I found online and didn't get enough time to play around with properly as this was done right at the end.
+I aim to in the future implement all control bindings, as well as modify the code to work on multiple buttons more seamlessly as well as handle axis mappings.
