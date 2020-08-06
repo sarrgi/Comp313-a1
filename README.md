@@ -15,10 +15,15 @@ Control Systems (30) - User Interface (20) - Interactions (30) - Documentation(2
 - Pause - Tab/P 
 - Pause and Main Menu - Mouse interaction
 
+There is an option to change some of the controls bind in the Main Menu and Pause Menu. Changing these of course means the keys specified in the readme may no longer be accurate.
+
+
 #### How to Start
 
 - Navigate to Content/Levels and double clicking "Home" to load the home level.
 - Press Play in the Unreal editor to launch the game.
+
+NOTE: I've tested cloning this and it asked me to rebuild the project upon loading, however this still worked. Hope this isn't reflective of an potential issue with recreating the project on your end.
 
 #### Explanation of game 
 This is a very basic 2D platformer, with the movement being loosely based on Hollow Knight and Celeste, but without the polish. Similaraly to these two games, the player's movement is the main action of this game.
@@ -33,8 +38,6 @@ Levels are completed by standing on the finish tiles.
 The player's score will stay with them throughout their journey. However, it will be reset by either leaving to the main menu, changing level, or finishing the game.
 
 You can pause the game at anytime with Tab/P.
-
-There is an option to change some of the controls bind in the Main Menu and Pause Menu. Changing these of course means the keys specified in the readme may no longer be accurate.
 
 #### Hardest Part to Get Working
 
